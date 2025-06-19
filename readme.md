@@ -1,5 +1,7 @@
 # 🛡️ Toxic Comment Classifier
 
+**🌐 Live App**: https://toxic-classifier-app.streamlit.app/
+
 An AI-powered web application for detecting toxic content in text using an ensemble of ALBERT transformer models. Built with Streamlit and PyTorch, this tool provides real-time analysis across multiple toxicity categories with confidence scoring and visual analytics.
 
 ## 🌟 Features
